@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.example.com/post/creating-a-new-theme/</loc>
+    <loc>https://iachievedream.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/migrate-from-jekyll/</loc>
+    <loc>https://iachievedream.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://iachievedream.github.io/</loc>
     <lastmod>2022-08-10T23:38:40+08:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/</loc>
+    <loc>https://iachievedream.github.io/post/</loc>
     <lastmod>2022-08-10T23:38:40+08:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/test/</loc>
+    <loc>https://iachievedream.github.io/post/test/</loc>
     <lastmod>2022-08-10T23:38:40+08:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/about/</loc>
+    <loc>https://iachievedream.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/contact/</loc>
+    <loc>https://iachievedream.github.io/contact/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/goisforlovers/</loc>
+    <loc>https://iachievedream.github.io/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/categories/</loc>
+    <loc>https://iachievedream.github.io/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/development/</loc>
+    <loc>https://iachievedream.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/categories/development/</loc>
+    <loc>https://iachievedream.github.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/hugoisforlovers/</loc>
+    <loc>https://iachievedream.github.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/go/</loc>
+    <loc>https://iachievedream.github.io/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/golang/</loc>
+    <loc>https://iachievedream.github.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/categories/golang/</loc>
+    <loc>https://iachievedream.github.io/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/hugo/</loc>
+    <loc>https://iachievedream.github.io/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/</loc>
+    <loc>https://iachievedream.github.io/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/templates/</loc>
+    <loc>https://iachievedream.github.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/themes/</loc>
+    <loc>https://iachievedream.github.io/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>
